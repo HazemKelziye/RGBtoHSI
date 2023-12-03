@@ -1,5 +1,5 @@
-# Rubik-sCubeHW1
-Image Processing HW1
+# Rubik-sCube
+Image Processing
 
 The Homework is about the followings:
 
